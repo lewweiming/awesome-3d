@@ -6,3 +6,7 @@ All things 3D
 ### three-mesh-ui (Make VR user interfaces for Three.js)
 
 https://felixmariotto.github.io/three-mesh-ui
+
+## Reddit Discussions
+
+See https://www.reddit.com/r/WebVR/comments/gnvtl9/what_is_better_for_webxr_dev_aframe_or_babylonjs/
